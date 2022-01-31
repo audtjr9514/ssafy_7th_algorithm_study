@@ -1,5 +1,8 @@
+/*
+기능개발
+ */
+
 package Week1;
-// 스택 사용
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
@@ -8,7 +11,6 @@ import java.io.OutputStreamWriter;
 import java.io.IOException;
 import java.util.Arrays;
 import java.util.Stack;
-import java.util.StringTokenizer;
 
 public class PG_기능개발 {
     public static void main(String[] args) throws IOException {
