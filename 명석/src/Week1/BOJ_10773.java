@@ -1,3 +1,7 @@
+/*
+10773 제로
+ */
+
 package Week1;
 
 import java.io.BufferedReader;
@@ -5,7 +9,6 @@ import java.io.BufferedWriter;
 import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 import java.io.IOException;
-import java.util.StringTokenizer;
 
 public class BOJ_10773 {
     public static void main(String[] args) throws IOException {

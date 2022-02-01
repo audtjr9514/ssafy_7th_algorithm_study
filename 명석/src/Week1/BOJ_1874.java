@@ -2,6 +2,7 @@
 1874 스택 수열
 String으로 결과 값 출력시 메모리 초과 -> StringBuilder로 변경
  */
+
 package Week1;
 
 import java.io.BufferedReader;

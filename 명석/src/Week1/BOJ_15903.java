@@ -5,6 +5,7 @@
 매 순간 합체할때마다 가장 작은 수 2가지를 더하고 최종적으로 싹 다 더하면 답.
 배열의 정렬을 해서도 가능할듯
  */
+
 package Week1;
 
 import java.io.BufferedReader;

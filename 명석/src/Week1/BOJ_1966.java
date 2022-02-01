@@ -1,4 +1,5 @@
 /*
+1966 프린터 큐
 
  */
 package Week1;
@@ -50,8 +51,6 @@ public class BOJ_1966 {
             for (int i = 1; i < size + 1; i++) {
                 if (pq.poll().seq == wantSeq) {
                     bw.write(String.valueOf(i));
-
-
                     bw.newLine();
                 }
             }
