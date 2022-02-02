@@ -1,4 +1,4 @@
-package 스택;
+package 스택과큐;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -8,7 +8,6 @@ import java.util.Stack;
 public class BOJ_9012 {
 	public static void main(String[] args) throws IOException{
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-		StringBuffer sb = new StringBuffer();
 		
 		int T = Integer.parseInt(br.readLine());
 		
